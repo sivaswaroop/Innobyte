@@ -5,13 +5,14 @@ Problem Statement:
 **Analyze and provide actionable insights from an Amazon sales report to support business decision-making.**
 
 Steps Involved:
-Data Collection and Understanding:
+*Data Collection and Understanding:*
 
 Objective: Collect the Amazon sales data from the given source.
 Details: The dataset includes fields such as order ID, date, sales status, fulfillment method, sales channel, product category, quantity, shipping details, and more.
 Action: Review and familiarize yourself with the dataset to ensure all fields are understood before starting the analysis.
 Outcome: A clear understanding of the dataset structure, content, and potential use in the analysis.
-Data Cleaning:
+
+*Data Cleaning:*
 
 Objective: Ensure the dataset is accurate and free from errors or inconsistencies.
 Action:
