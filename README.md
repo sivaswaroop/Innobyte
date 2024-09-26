@@ -45,7 +45,7 @@ _*Data Collection and Understanding:*_
 *Geographical Analysis:*
 
 **Objective:** Explore the geographical distribution of sales.<br />
-**Action:**Identify top-selling regions (states, cities) and any geographical patterns in product preferences.Use geographical heatmaps or other visual tools to display sales distribution across locations.<br />
+**Action:** Identify top-selling regions (states, cities) and any geographical patterns in product preferences.Use geographical heatmaps or other visual tools to display sales distribution across locations.<br />
 **Outcome:** A geographical breakdown of sales, helping to optimize regional marketing and logistics.
 
 *Business Insights & Recommendations:*
