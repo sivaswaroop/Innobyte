@@ -1,7 +1,8 @@
 # Innobyte
 
-Project Title: _***Amazon Sales Report Analysis***_<br />
-_Problem Statement:_
+_Project Title:_<br />
+_***Amazon Sales Report Analysis***_<br />
+_Problem Statement:_<br />
 **Analyze and provide actionable insights from an Amazon sales report to support business decision-making.**
 
 **Steps Involved:**<br />
