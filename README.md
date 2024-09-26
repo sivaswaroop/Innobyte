@@ -14,9 +14,8 @@ Outcome: A clear understanding of the dataset structure, content, and potential 
 
 *Data Cleaning:*
 
-Objective: Ensure the dataset is accurate and free from errors or inconsistencies.
-Action:
-Handle missing data (e.g., through imputation or removal of incomplete records).
+Objective: Ensure the dataset is accurate and free from errors or inconsistencies.<br />
+Action:Handle missing data (e.g., through imputation or removal of incomplete records).
 Remove duplicates to ensure data integrity.
 Standardize formats (e.g., date formats, categorical data).
 Check for any outliers that could affect the results and decide whether to handle them.
