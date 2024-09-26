@@ -4,7 +4,7 @@ Project Title: _***Amazon Sales Report Analysis***_<br />
 _Problem Statement:_
 **Analyze and provide actionable insights from an Amazon sales report to support business decision-making.**
 
-**Steps Involved:**
+**Steps Involved:**<br />
 _*Data Collection and Understanding:*_
 
 **Objective:** Collect the Amazon sales data from the given source.<br />
